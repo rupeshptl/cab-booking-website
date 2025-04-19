@@ -12,7 +12,7 @@ html{
     scroll-behavior: smooth;
 }
 .main-container{
-    background: url(images/background.png);
+    background: url(images/background.);
     background-position: center;
     background-size: cover;
     width: 100%;
